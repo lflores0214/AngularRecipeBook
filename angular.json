@@ -24,6 +24,7 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -119,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "RecipeBook"
+    }
+  },
+  "defaultProject": "RecipeBook",
+  "cli": {
+    "analytics": "8c827ba5-b810-495a-9f68-83723cfe91c5"
+  }
 }
