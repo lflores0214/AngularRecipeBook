@@ -12,7 +12,16 @@ import { RecipeItemComponent } from './recipe-book/recipe-list/recipe-item/recip
 import { ShoppingEditComponent } from './shopping-list/shopping-edit/shopping-edit.component';
 
 @NgModule({
-  declarations: [AppComponent, RecipeBookComponent, ShoppingListComponent, HeaderComponent, RecipeDetailComponent, RecipeListComponent, RecipeItemComponent, ShoppingEditComponent],
+  declarations: [
+    AppComponent,
+    RecipeBookComponent,
+    ShoppingListComponent,
+    HeaderComponent,
+    RecipeDetailComponent,
+    RecipeListComponent,
+    RecipeItemComponent,
+    ShoppingEditComponent,
+  ],
   imports: [BrowserModule, AppRoutingModule],
   providers: [],
   bootstrap: [AppComponent],
