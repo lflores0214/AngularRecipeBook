@@ -16,8 +16,8 @@ export class RecipeListComponent implements OnInit {
       'https://www.primaverakitchen.com/wp-content/uploads/2017/06/Pesto-Chicken-Salad-Recipe.jpg'
     ),
     new Recipe(
-      'Another Test Recipe',
-      'This is a test',
+      'Chickpea Salad',
+      'This is a chickpea salad',
       'https://www.primaverakitchen.com/wp-content/uploads/2017/06/Pesto-Chicken-Salad-Recipe.jpg'
     ),
   ];
