@@ -4,7 +4,6 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 
 ## Description
-- A work in progress recipe book and shopping list app built using Angular  front-end and node.js and graphQl for the backend
+- A work in progress recipe book and shopping list app built using Angular on the front-end
 
 - more details to come
-- 
